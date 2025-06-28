@@ -7,11 +7,9 @@ This is a visually dynamic React + GSAP project that replicates a Rockstar-style
 ## 🚀 Features
 
 - ✨ GSAP-powered timeline animations
-- 🖼️ SVG masking intro with animated text reveal
 - 🎮 GTA-style theme and visual elements
 - 🖱️ Parallax movement on mouse interaction
 - 🎨 Responsive, styled using TailwindCSS
-- 📱 Console branding (PS5, Xbox) with call-to-action
 
 ---
 
